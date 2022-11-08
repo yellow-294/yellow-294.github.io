@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UserGuide.md",
+                "file": "docs/UserGuide.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UserGuide.md",
-                "mode": "preview",
+                "file": "docs/UserGuide.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2d2ee7750d6e1fae",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UserGuide.md",
+                "file": "docs/UserGuide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UserGuide.md",
+                "file": "docs/UserGuide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UserGuide.md"
+                "file": "docs/UserGuide.md"
               }
             }
           }
@@ -157,8 +156,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49e44896f91ff1f9",
+  "active": "2f965d0a4b40bcec",
   "lastOpenFiles": [
-    "UserGuide.md"
+    "2022-11-08.md",
+    "docs/UserGuide.md"
   ]
 }
